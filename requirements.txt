@@ -1,2 +1,6 @@
 openai 
 pillow
+google-genai
+streamlit
+python-dotenv
+Pillow
